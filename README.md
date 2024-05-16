@@ -1,16 +1,7 @@
-# widget_test
 
-A new Flutter project.
+###  1.  Glass Morphism Effect Using Flutter
 
-## Getting Started
+Glassmorphism utilizes subtle translucency and blurs to create a layered effect, emphasizing content while maintaining a sense of depth. This design style works particularly well with vibrant backgrounds and allows for a more dynamic and engaging user experience.
 
-This project is a starting point for a Flutter application.
+ <img src="https://github.com/Meshva30/widget_test/assets/136339359/f12a172c-e3a3-4ef5-8b9f-d9ac270b498c" alt="Image 2" width="180" height="auto">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
